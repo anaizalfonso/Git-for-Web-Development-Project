@@ -16,3 +16,4 @@ in happens when there is more than one user (work environment).
 8. How do you resolve a merge conflict?
 open it and make the changes,after editing then use git add a command to stage the new merged content, and then create a new commit . this will create a new merge commit to finalize the merge.
 
+just testing i can do this on my own.
